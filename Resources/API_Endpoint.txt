@@ -1,0 +1,1 @@
+x-rapidapi-host': "api-football-v1.p.rapidapi.com"
