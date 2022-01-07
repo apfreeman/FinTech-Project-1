@@ -106,7 +106,7 @@ We were able to create average home and away goals visual for all seasons for ea
 
  We questioned ourselves, was this the right sport to target ? Is it truly a global sport with high participation. We were able to create a global map of all countries and highlight all countries that are the country of birth of a professional soccer player. It is evident that soccer is truly a global sport. 
 
-  ![https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Footballers_Country_Of_Birth.PNG?raw=true)
+  ![Footballers_Country_Of_Birth](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Footballers_Country_Of_Birth.PNG?raw=true)
 
 
 ## We get the data now lets play soccer "money" ball
