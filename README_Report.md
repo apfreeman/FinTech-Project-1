@@ -108,6 +108,12 @@ We were able to create average home and away goals visual for all seasons for ea
 
   ![Footballers_Country_Of_Birth](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Footballers_Country_Of_Birth.PNG?raw=true)
 
+To extend this idea, we decided complete some additional plots to allow us to review some more metrics for this world sport. 
+
+ ![Number_Of_Leagues_Per_Country](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Number_Of_Leagues_Per_Country.PNG?raw=true)
+
+This plot shows the number of leagues per country. It can see that there is a number of professional leagues all around the world with numbers in Brazil and Europe.
+
 
 ## We get the data now lets play soccer "money" ball
 
