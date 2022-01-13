@@ -114,7 +114,7 @@ To extend this idea, we decided complete some additional plots to allow us to re
 This plot shows the number of leagues per country. It can see that there is a number of professional leagues all around the world with higher numbers of leagues in Brazil and Europe.
 
 
-## We get the data now lets play soccer "money" ball
+# We get the data now lets play soccer "money" ball
 
 From the ground work we completed we now have a better understanding of the data. Through this process we narrowed our scope to the following leagues
 - English Premier League
@@ -127,32 +127,37 @@ We know these are the most attacking leagues and play the most games. We also un
 Using all of this data we have assembled the following fantasy football teams for each of the 4 Top Leagues
 
 
-### English Premier League
+## English Premier League
 
-#### Plot field with Players
+### Plot field with Players
+ ![EPL_fantasy_team](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Prem_Fantasy_Team.png?raw=true)
 
-#### Player Statistics
+
+### Player Statistics
  ![EPL_fantasy_team_player_stats](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/EPL_fantasy_team_player_stats.PNG?raw=true)
 
-### France Ligue 1
+## France Ligue 1
 
-#### Plot field with Players
+### Plot field with Players
+![Ligue1_fantasy_team](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Ligue1_Fantasy_Team.png?raw=true)
 
-#### Player Statistics
+### Player Statistics
  ![Ligue1_fantasy_team_player_stats](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Ligue1_fantasy_team_player_stats.PNG?raw=true)
 
-### Italy Serie A
+## Italy Serie A
 
-#### Plot field with Players
+### Plot field with Players
+![Seria_fantasy_team](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/SerieA_Fantasy_Team.png?raw=true)
 
-#### Player Statistics
+### Player Statistics
  ![Seria_fantasy_team_player_stats](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Seria_fantasy_team_player_stats.PNG?raw=true)
 
-### Spanish LIGA
+## Spanish LIGA
 
-#### Plot field with Players
+### Plot field with Players
+![LaLiga_fantasy_team](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/LaLiga_Fantasy_Team.png?raw=true)
 
-#### Player Statistics
+### Player Statistics
  ![LaLiga_fantasy_team_player_stats](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/LaLiga_fantasy_team_player_stats.PNG?raw=true)
 
 
