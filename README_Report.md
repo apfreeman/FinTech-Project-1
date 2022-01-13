@@ -4,8 +4,7 @@
 # Project Title
 ## Soccer "Money" Ball Fantasy Football
 
-![Soccer Money Ball](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXShvGJxYQ__XM3SxoM70lWfncoKABw7K7zJmb4i5AfEjp_zV7P_8evwKdUiYskfZOAyc&usqp=CAU)
-
+![Soccer Money Ball](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Soccer_Money.png?raw=true)"
 
 # Team Members
 - Adam Freeman
@@ -127,55 +126,34 @@ We know these are the most attacking leagues and play the most games. We also un
 
 Using all of this data we have assembled the following fantasy football teams for each of the 4 Top Leagues
 
-######################################################################################################################
-We now need to complete this and try plot a field with each player represented in formation 
 
 ### English Premier League
 
-#### Top 2 Goal Scores
-
-#### Top 4 Midfielders 
-
-#### Top 4 Defenders
-
 #### Plot field with Players
 
-
-
-### Italy Serie A
-
-#### Top 2 Goal Scores
-
-#### Top 4 Midfielders 
-
-#### Top 4 Defenders
-
-#### Plot field with Players
-
-
+#### Player Statistics
+ ![EPL_fantasy_team_player_stats](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/EPL_fantasy_team_player_stats.PNG?raw=true)
 
 ### France Ligue 1
 
-#### Top 2 Goal Scores
+#### Plot field with Players
 
-#### Top 4 Midfielders 
+#### Player Statistics
+ ![Ligue1_fantasy_team_player_stats](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Ligue1_fantasy_team_player_stats.PNG?raw=true)
 
-#### Top 4 Defenders
+### Italy Serie A
 
 #### Plot field with Players
 
-
+#### Player Statistics
+ ![Seria_fantasy_team_player_stats](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/Seria_fantasy_team_player_stats.PNG?raw=true)
 
 ### Spanish LIGA
 
-#### Top 2 Goal Scores
-
-#### Top 4 Midfielders 
-
-#### Top 4 Defenders
-
 #### Plot field with Players
 
+#### Player Statistics
+ ![LaLiga_fantasy_team_player_stats](https://github.com/apfreeman/FinTech-Project-1/blob/main/Images/LaLiga_fantasy_team_player_stats.PNG?raw=true)
 
 
 
