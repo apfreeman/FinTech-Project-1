@@ -26,7 +26,7 @@
 | 13          | Adam, Dallol | Adam Intro, Dallol to describe Football Countries tab                 |
 | 14          | Adam         | Finish pre work lead into fantasy plots                               |
 | 15,16       | Marcus       | Talk about fantasy team plots for all leagues                         |
-| 17,18       | Dallol       | Talk about fantasy team statistics for epl, ligue1                    |
-| 19,20       | Saroj        | Talk about fantasy team statistics for seriea. Laliga                 |
-| 21,22,23,24 | Adam         | Challenges, What we did well, Additional Features, Presentation close |
-		
+| 17,18,19,20 | Dallol       | Talk about fantasy team statistics all leagues                        |
+| 21,22       | Adam         | Challenges, What we did well                                          |
+| 23          | Marcus       | Additional Features                                                   |
+| 24          | Adam         | Presentation Close                                                    |		
