@@ -128,7 +128,7 @@ From the ground work we completed we now have a better understanding of the data
 
 We know these are the most attacking leagues and play the most games. We also understand that there is a definite home team advantage, and there is a loose trend of more goals being scored this year then the previous year. We have also confirmed that Soccer is truly a global sport played in many countries and represents a good choice of sport as there will be many fantasy football competitions across the globe we can enter. 
 
-Using all of this data we have assembled the following fantasy football teams for each of the 4 Top Leagues
+Using all of this data we have assembled the following fantasy football teams for each of the 4 Top Leagues using programatic statistical analysis only !
 
 
 ## English Premier League
